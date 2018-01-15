@@ -20,9 +20,8 @@
 		            <input type="text" id="userPassword" class="form-control input-sm chat-input" placeholder="password" />
 		            </br>
 		            <div class="wrapper">
-			            <span class="group-btn">     
-		            		<button class="btn btn-primary btn-md" type="submit">Aceptar</button>
-			                
+			            <span class="group-btn">
+			            	<button class="btn btn-primary btn-md" type="submit">Aceptar</button>
 			            </span>
 		            </div>
 	            </div>

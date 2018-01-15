@@ -9,16 +9,16 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">CODICE</a>
+                    <a class="navbar-brand" href="#"><img src="../resources/FCFM.png" style="max-height: 200%"></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#" class="">Registro</a></li>
-                        <li><a href="#">Reporte</a></li>
-                        <li><a href="#">Inventario</a></li>
+                        <li class="active"><a href="registry.php" class="">Registro</a></li>
+                        <li><a href="report.php">Reporte</a></li>
+                        <li><a href="inventary.php">Inventario</a></li>
                     </ul>
                     <ul class="nav navbar-nav pull-right">
-                        <li class=""><a href="#">Cerrar Sesión</a></li>
+                        <li class=""><a href="index.php">Cerrar Sesión</a></li>
                     </ul>
                 </div>
             </div>

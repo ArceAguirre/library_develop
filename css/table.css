@@ -1,0 +1,10 @@
+.ticket-list .panel-heading {
+    background-color:#F4F8F9;
+    border-bottom: none;
+}
+.ticket-list .panel-body {
+    background-color:#F4F8F9;
+}
+.ticket-list .table-head{
+    border: none;  
+}
