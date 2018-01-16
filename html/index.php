@@ -12,7 +12,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-offset-5 col-md-3">
-        	<form method="post" action="archivo.php">
+        	<form method="post" action="registry.php">
 	            <div class="form-login">
 		            <h4>Bienvienido.</h4>
 		            <input type="text" id="userName" class="form-control input-sm chat-input" placeholder="username" />

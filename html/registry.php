@@ -12,7 +12,8 @@
     <!-- Insert -->
     <div class="container" style="padding-top: 120px;">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-md-6 col-md-offset-3">
+                <h1 align="middle" style="padding-bottom: 10px;">REGISTRO DIARIO</h1>
                 <div class="input-group custom-search-form">
                 <input type="text" class="form-control" placeholder="Código">
                 <span class="input-group-btn">
@@ -29,7 +30,7 @@
         <div class="col-md-12 col-md">
             <div class="panel panel-default ticket-list">
               <div class="panel-heading">
-                <h3 class="panel-title text-center">Reporte de /Fecha/</h3>
+                <h2 class="panel-title text-center">LIBROS REGISTRADOS</h2>
               </div>
               <div class="panel-body ">
                   <table class="table">

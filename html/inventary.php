@@ -10,9 +10,20 @@
     <!-- Header -->
     <?php include("header/header.php") ?>
     <!-- Insert -->
-
-
-
+    <div class="container" style="padding-top: 100px;">
+		<div class="row">
+			<div class="col-md-4 col-md-offset-8">
+	            <div class="input-group custom-search-form">
+	            	<input type="text" class="form-control" placeholder="Buscar...">
+	              	<span class="input-group-btn">
+	              		<button class="btn btn-primary" type="button">
+	              			<span class="glyphicon glyphicon-search"></span>
+	             		</button>
+	             	</span>
+	            </div><!-- /input-group -->
+	        </div>
+		</div>
+	</div>
 
 </body>
 </html>
