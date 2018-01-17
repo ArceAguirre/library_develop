@@ -3,10 +3,8 @@ body{
 
 }
 .navbar, .dropdown-menu{
-background:rgba(255,255,255,0.25);
-border: none;
-font-size: 25px;
-
+  background:rgba(255,255,255,0.25);
+  border: none;
 }
 
 .nav>li>a, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .dropdown-menu>li>a, .dropdown-menu>li{
