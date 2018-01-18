@@ -128,7 +128,7 @@ CREATE TABLE `type_user` (
 CREATE TABLE `user_codice` (
   `id` int(11) NOT NULL,
   `name` varchar(100) COLLATE utf8_bin NOT NULL,
-  `password` varchar(200) COLLATE utf8_bin NOT NULL,
+  `password` varchar(40) COLLATE utf8_bin NOT NULL,
   `id_type_user` int(11) NOT NULL,
   `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
   `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
