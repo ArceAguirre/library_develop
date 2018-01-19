@@ -1,5 +1,6 @@
 /*Plantilla*/
 
+delimiter ;;
 /****************************************************/
 /*  author      |   AUTOR                           */
 /*  date        |   --/01/2018                      */
@@ -25,7 +26,7 @@ sp_TABLE : begin
         '000' as error,
         'Correcto' as error_message; 
 end 
-
+;;
 delimiter ;;
 /****************************************************/
 /*  author      |   AUTOR                           */
