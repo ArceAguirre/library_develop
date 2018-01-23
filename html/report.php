@@ -10,6 +10,7 @@
     <!-- Header -->
     <?php include("header/header.php") ?>
     <!-- Insert -->
+    <h1 align="middle" style="padding-top: 120px;">REPORTE</h1>
 
 
 

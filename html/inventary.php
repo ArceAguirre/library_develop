@@ -10,7 +10,7 @@
     <!-- Header -->
     <?php include("header/header.php") ?>
     <!-- Insert -->
-    <div class="container" style="padding-top: 100px;">
+    <div class="container" style="padding-top: 85px;">
 		<div class="row">
 			<div class="col-md-4 col-md-offset-8">
 	            <div class="input-group custom-search-form">
@@ -24,6 +24,7 @@
 	        </div>
 		</div>
 	</div>
+	<h1 align="middle">INVENTARIO</h1>
 
 </body>
 </html>
